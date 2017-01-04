@@ -1,0 +1,15 @@
+img {
+  height: 300px;
+  width: auto;
+  padding: 2%;
+}
+
+img:hover{
+  opacity: 0.5;
+}
+
+.red {
+  margin-top: 30px;
+  color: red;
+  text-align: center;
+}
